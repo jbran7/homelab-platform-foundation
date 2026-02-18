@@ -47,7 +47,11 @@ homelab-platform-foundation/
 └── docs/
     ├── apt-caching.md
     ├── network-topology.md
-    └── rebuild.md
+    ├── rebuild.md
+    ├── workstation-baseline.md
+    ├── platform-baseline.md
+    ├── ops-01-baseline.md
+    └── roadmap.md
 ```
 
 ### Documentation Modules
@@ -57,6 +61,22 @@ homelab-platform-foundation/
 
 - **network-topology.md**  
   Subnet design, routing decisions, and architectural layout.
+
+- **rebuild.md**  
+  Step-by-step rebuild procedure for foundational lab components.
+
+- **workstation-baseline.md**  
+  Windows workstation tooling and configuration baseline.
+
+- **platform-baseline.md**  
+  Proxmox host hardware, software, and security baseline.
+
+- **ops-01-baseline.md**  
+  Ubuntu platform operations node configuration and purpose.
+
+- **roadmap.md**  
+  Phased infrastructure improvement plan and long-term vision.
+  
 
 ---
 
