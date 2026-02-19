@@ -43,3 +43,8 @@ Potential improvements:
 - Logging and monitoring stack
 - Automated VM provisioning
 - Full lab rebuild via code
+
+## Blocker
+
+Carbon WiFi NAT conversion requires router MAC whitelist update.
+Pending router administrative access.
